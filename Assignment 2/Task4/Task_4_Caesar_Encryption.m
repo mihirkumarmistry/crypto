@@ -1,4 +1,4 @@
-% This program plots the letter frequency of the input text
+% This program will find the key and decript the cipher text
 clc; close all; clear all;
 
 %text = fileread('EvesDiaryMarkTwain.txt'); % reading text from file
